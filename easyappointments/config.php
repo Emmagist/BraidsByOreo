@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'https://braidsbyoreo.herokuapp.com';
+    const BASE_URL      = 'http://braidsbyoreo.herokuapp.com';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = TRUE;
 
@@ -38,7 +38,7 @@ class Config {
     // DATABASE SETTINGS
     // ------------------------------------------------------------------------
 
-    const DB_HOST       = 'https://www.db4free.net/';
+    const DB_HOST       = 'https://www.db4free.net';
     const DB_NAME       = 'easyappointment';
     const DB_USERNAME   = 'easyappointment';
     const DB_PASSWORD   = 'easyappointment';
