@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'http://easyappointments.test';
+    const BASE_URL      = 'https://braidsbyoreo.herokuapp.com/';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = TRUE;
 
